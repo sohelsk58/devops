@@ -29,4 +29,5 @@ steps:
     containerRegistry: 'dock2'
     repository: 'sohel007 / sohelrepo'
     command: 'buildAndPush'
-    Dockerfile: '**/sohelrepo'
+    Dockerfile: '**/AzureDockerfile'
+
